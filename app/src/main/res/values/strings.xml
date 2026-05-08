@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="screen_title">My Recipes</string>
+    <string name="new_recipe_heading">New recipe</string>
+    <string name="edit_recipe_heading">Edit recipe</string>
+    <string name="recipe_title_label">Recipe name</string>
+    <string name="recipe_title_placeholder">e.g. Lemon pasta</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="ingredients_placeholder">List ingredients, one per line</string>
+    <string name="instructions_label">Cooking instructions</string>
+    <string name="instructions_placeholder">Describe the cooking steps</string>
+    <string name="time_label">Cooking time, minutes</string>
+    <string name="time_placeholder">30</string>
+    <string name="save_recipe">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="empty_title">Nothing here yet</string>
+    <string name="empty_description">Add your first recipe to start building a personal cookbook.</string>
+    <string name="search_placeholder">Search recipes...</string>
+    <string name="details_title">Recipe details</string>
+    <string name="ingredients_title">Ingredients</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="difficulty_title">Difficulty</string>
+    <string name="edit_recipe">Edit recipe</string>
+    <string name="delete_recipe">Delete recipe</string>
+    <string name="recipe_deleted">Recipe deleted</string>
+    <string name="back">Back</string>
+    <string name="not_found_title">Recipe not found</string>
+    <string name="not_found_description">This recipe may have been deleted.</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+</resources>
